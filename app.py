@@ -5,3 +5,11 @@ with TikTokApi() as api:
     user.as_dict
     for video in user.videos():
         print(video.stats())
+        
+
+    #for video in user.videos():
+     #   print(video.views)
+      #  count += video.views
+        # print(video.id)
+
+    #print(count)
