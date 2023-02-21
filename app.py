@@ -1,3 +1,5 @@
+#Current Issue: Tik Tok Captcha + no publically avaiable API sadly
+
 from TikTokApi import TikTokApi
 
 with TikTokApi() as api:
