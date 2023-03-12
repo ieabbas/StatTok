@@ -14,3 +14,5 @@ with api:
     user.as_dict
     for video in user.videos():
         print(video.stats())
+
+#function to web scrape tik tok @Cherrius_ for total video view count

@@ -8,8 +8,7 @@ with TikTokApi() as api:
     for video in user.videos():
         print(video.stats())
         
-
-    #for video in user.videos():
+#for video in user.videos():
      #   print(video.views)
       #  count += video.views
         # print(video.id)
